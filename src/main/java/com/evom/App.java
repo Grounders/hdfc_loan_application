@@ -8,12 +8,11 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "welcome to simplilearn CEHv13" );
-         System.out.println( "You will learn a lot here" );
+        System.out.println( "Dev Code is modified" );
+     
 
-	System.out.println( "3rd line of code" );
 
-           System.out.println( "Y3rd line of code is added" );
- System.out.println( "Y4rd line of code is added" );
+
+ 
     }
 }
