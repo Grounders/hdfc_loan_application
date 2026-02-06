@@ -5,6 +5,10 @@ package com.evom;
  *
  */
 public class App 
+
+JIRA 102 //
+
+this task is added against JIRA 102
 {
     public static void main( String[] args )
     {
