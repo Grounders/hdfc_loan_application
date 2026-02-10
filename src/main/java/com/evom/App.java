@@ -20,7 +20,11 @@ System.out.println( "Dev Code is modified" );
         JIRA 110//
 System.out.println( "Dev Code is modified" );
 
+<<<<<<< Updated upstream
 
  
+=======
+     new code added
+>>>>>>> Stashed changes
     }
 }
