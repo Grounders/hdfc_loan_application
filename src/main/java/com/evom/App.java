@@ -9,7 +9,9 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Dev Code is modified" );
-        check if it is modified
+      int j = 10;
+        int k = 20;
+        
      
 
 
