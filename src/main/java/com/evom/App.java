@@ -5,6 +5,10 @@ package com.evom;
  *
  */
 public class App 
+
+JIRA 102 //
+
+this task is added against JIRA 102
 {
     public static void main( String[] args )
     {
@@ -13,9 +17,19 @@ public class App
         int k = 20;
         
      
+JIRA 101//
+System.out.println( "Dev Code is modified" );
+
+        JIRA 110//
+System.out.println( "Dev Code is modified" );
 
 
+       JIRA 115
+System.out.println( "changes merged from dev to main branch);
 
  
+
+     new code added
+
     }
 }
